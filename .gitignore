@@ -2,3 +2,6 @@
 data/
 .venv/
 models/
+*.pth
+*.state
+__pycache__
